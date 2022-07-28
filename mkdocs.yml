@@ -1,0 +1,43 @@
+site_name: Isha Montage
+repo_url: https://github.com/AlexFreik/isha-montage
+
+theme:
+  name: material
+  language: en                                    # The build's language
+
+  features:
+    - navigation.tracking
+    - navigation.tabs
+
+  palette:
+    - media: "(prefers-color-scheme: light)"        # Palette toggle for light mode
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"         # Palette toggle for dark mode
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Русский
+      link: / 
+      lang: ru
+
+plugins:
+  - search:
+      lang: ru                                      # Set language for search
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
