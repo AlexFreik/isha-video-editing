@@ -1,4 +1,5 @@
 # Isha Montage Guide
+[![Read the Docs](https://readthedocs.org/projects/isha-montage/badge/?version=latest)](https://isha-montage.readthedocs.io/ru/latest/)
 
 ## Run
 ```zsh
