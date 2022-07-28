@@ -3,7 +3,7 @@ repo_url: https://github.com/AlexFreik/isha-montage
 
 theme:
   name: material
-  language: en                                    # The build's language
+  language: ru                                    # The build's language
 
   features:
     - navigation.tracking
@@ -24,11 +24,8 @@ theme:
 
 extra:
   alternate:
-    - name: English
-      link: / 
-      lang: en
     - name: Русский
-      link: /ru/ 
+      link: / 
       lang: ru
 
 plugins:
