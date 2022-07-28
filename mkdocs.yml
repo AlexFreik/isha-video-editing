@@ -25,10 +25,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /en/ 
+      link: / 
       lang: en
     - name: Русский
-      link: / 
+      link: /ru/ 
       lang: ru
 
 plugins:
