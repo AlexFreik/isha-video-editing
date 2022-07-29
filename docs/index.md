@@ -1,6 +1,5 @@
 # Isha Montage Guide RU
 
-## Предисловие
 Ссылка на Google Drive с файлами для монтажа: [ishaeu.org/RUMontage](https://ishaeu.org/RUMontage)
 
 Добро пожаловать в гайд с процессом монтажа для Ютуба! Читайте его в своем темпе, уделяя
