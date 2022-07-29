@@ -25,7 +25,7 @@ theme:
 extra:
   alternate:
     - name: Русский
-      link: / 
+      link: /isha-montage/ 
       lang: ru
 
 plugins:
