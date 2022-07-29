@@ -1,0 +1,15 @@
+name: Deployment of Docs to gh-pages
+on:
+  push:
+    branches:
+      - master
+
+jobs: 
+  Updating-Notes-Database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.25
