@@ -10,7 +10,7 @@
 - `TN_TITLE`: Как прожить невероятную жизнь
 - Перевод субтитра на 08:10: «Тайир» на тамильском означает йогрт
 
-![segoe script example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/thumbnail.jpg?raw=true){ width="150" align="right" } 
+![segoe script example](img/thumbnail.jpg){ width="150" align="right" }
 
 P.S. На русском канале довольно уродливый субтитр, 
 призываю вас улучшить его =).

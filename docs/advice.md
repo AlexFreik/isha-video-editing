@@ -3,8 +3,8 @@
 ## Общие советы
 **Будьте внимательны — и не придется переделывать.**
 
-Проверяйте, что текст без грамм. ошибок, что все в порядки с пунктуаци-
-ей; перед монтажем проверьте в измененных фрагментах, что все аккуратно;
+Проверяйте, что текст без грамм. ошибок, что все в порядки с пунктуацией;
+перед монтажем проверьте в измененных фрагментах, что все аккуратно;
 после монтажа также проверьте эти места.
 
 Измененных мест, обычно, не более 5, и это занимает 2-3 минуты, но может
@@ -23,11 +23,11 @@
 обычно, смотрится неплохо.
     - Ниже пример, где лучше было использовать `blur`.
     <figure markdown>
-     ![image title](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/title_blur_bad.jpg?raw=true){ width="300" }
+     ![image title](img/title_blur_bad.jpg){ width="300" }
      <figcaption>Not nice...</figcaption>
     </figure>
     <figure markdown>
-     ![image title](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/title_blur.jpg?raw=true){ width="300" }
+     ![image title](img/title_blur.jpg){ width="300" }
      <figcaption>Nice!</figcaption>
     </figure>
     - Если фон сливается с переведенным текстом, или `blurred` английскй
@@ -45,7 +45,7 @@
    Иногда, когда анимация особенно сложная, или не хватает времени на блюр,   или так просто будет лучше смотреться, можно поставить перевод рядом.  
    **Note**: мы редко используем этот способ.
     <figure markdown>
-     ![image title](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/text_below_example.jpg?raw=true){ width="300" }
+     ![image title](img/text_below_example.jpg){ width="300" }
     </figure>
 - *Если есть stem (видео без английского текста).*  
    В данном случае действуем так: скачиваем и оригинал с текстом, и стем.

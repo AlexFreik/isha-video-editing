@@ -51,7 +51,7 @@
    Их можно скачать и установить из Google Fonts:  
     - Merriweather: [fonts.google.com/specimen/Merriweather](https://fonts.google.com/specimen/Merriweather)
     - Open Sans: [fonts.google.com/specimen/Open+Sans](https://fonts.google.com/specimen/Open+Sans)
-    - Segoe Script: [our google Drive](https://ishaeu.org/RUMontage)
+    - Segoe Script: наш [Google Drive](https://ishaeu.org/RUMontage)
    P.S. Устанавливать шрифты не сложно, тут можно найти [инструкцию для macOS](tech-support.md#macos).
 
 - Иногда приходится вставлять текст в видео.  
@@ -96,11 +96,11 @@
 
 - У квадратных видео дублируем его-же на бекграунд, растягивем до границ, и накладываем blur.
     <figure markdown>
-   ![blur example](img/too_wide.jpg){ width="300" } 
+     ![blur example](img/too_wide.jpg){ width="300" }
      <figcaption>В случае с еправильным отношением сторон</figcaption>
     </figure>
 - Устаревшие заставки *«Sadhguru. Yogi, mystic and visioner»* и *«Conversation
-with Mystic»* вырезаются.
+with Mystic»* вырезаются.  
    **Причины**: они не несут особой пользы и отнмают время.
 
 ## Монтаж без аудио
@@ -108,8 +108,8 @@ with Mystic»* вырезаются.
 волонтер монтирует (практически) все видео, и второй — заменяет аудио
 дорожку.
 
-В таком случае, первому монтажеру следует **оставлять длинну видео-
-ролика неизменной**. То есть, не стоит вырезать фрагменты или удлинять их.
+В таком случае, первому монтажеру следует **оставлять длинну видео-ролика 
+неизменной**. То есть, не стоит вырезать фрагменты или удлинять их.
 
 **Причины**: второму человеку, обычно, будет гораздо проще самому это
 сделать (вырезать или удлинить), чем потом сводить аудио.
