@@ -47,7 +47,7 @@
 - Отдел дизайна Иши дал следующие шрифты: `Merriweather` — для заголовков и крупного текста, 
    и `Open Sans` — для субтитров. Используем их.  
    Иногда используется `Segoe Script`, вы его сразу заметите. Пример:
-   ![segoe script example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/segoe_script.png?raw=true){ width="120" } 
+   ![segoe script example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/segoe_script.png?raw=true){ width="120" }  
    Их можно скачать и установить из Google Fonts:  
     - Merriweather: [fonts.google.com/specimen/Merriweather](https://fonts.google.com/specimen/Merriweather)
     - Open Sans: [fonts.google.com/specimen/Open+Sans](https://fonts.google.com/specimen/Open+Sans)
