@@ -47,7 +47,7 @@
 - Отдел дизайна Иши дал следующие шрифты: `Merriweather` — для заголовков и крупного текста, 
    и `Open Sans` — для субтитров. Используем их.  
    Иногда используется `Segoe Script`, вы его сразу заметите. Пример:
-   ![segoe script example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/segoe_script.png?raw=true){ width="120" }  
+   ![segoe script example](img/segoe_script.png){ width="120" }  
    Их можно скачать и установить из Google Fonts:  
     - Merriweather: [fonts.google.com/specimen/Merriweather](https://fonts.google.com/specimen/Merriweather)
     - Open Sans: [fonts.google.com/specimen/Open+Sans](https://fonts.google.com/specimen/Open+Sans)
@@ -96,7 +96,7 @@
 
 - У квадратных видео дублируем его-же на бекграунд, растягивем до границ, и накладываем blur.
     <figure markdown>
-   ![blur example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/too_wide.jpg?raw=true){ width="300" } 
+   ![blur example](img/too_wide.jpg){ width="300" } 
      <figcaption>В случае с еправильным отношением сторон</figcaption>
     </figure>
 - Устаревшие заставки *«Sadhguru. Yogi, mystic and visioner»* и *«Conversation
