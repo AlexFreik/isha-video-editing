@@ -1,5 +1,6 @@
 # Isha Montage Guide
-[![Read the Docs](https://readthedocs.org/projects/isha-montage/badge/?version=latest)](https://isha-montage.readthedocs.io/ru/latest/)
+[![example workflow](https://github.com/AlexFreik/isha-montage/actions/workflows/deploy-gh-pages.yml/badge.svg)](https://alexfreik.github.io/isha-montage/)
+
 
 ## Run
 ```zsh
