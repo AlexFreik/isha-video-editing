@@ -1,4 +1,5 @@
 site_name: Isha Montage
+site_url: https://alexfreik.github.io/isha-montage/
 repo_url: https://github.com/AlexFreik/isha-montage
 
 theme:
@@ -25,7 +26,7 @@ theme:
 extra:
   alternate:
     - name: Русский
-      link: /isha-montage/ 
+      link: / 
       lang: ru
 
 plugins:
@@ -40,3 +41,11 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+
+nav:
+  - 'index.md'
+  - 'recomendations.md'
+  - 'advice.md'
+  - 'learning-materials.md'
+  - 'tech-support.md'
+  - 'test-task.md'
