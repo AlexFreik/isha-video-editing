@@ -95,7 +95,10 @@
 ## Старые видео
 
 - У квадратных видео дублируем его-же на бекграунд, растягивем до границ, и накладываем blur.
-   ![blur example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/too_wide.jpg?raw=true){ width="400" } 
+    <figure markdown>
+   ![blur example](https://github.com/AlexFreik/isha-montage/blob/master/docs/img/too_wide.jpg?raw=true){ width="300" } 
+     <figcaption>В случае с еправильным отношением сторон</figcaption>
+    </figure>
 - Устаревшие заставки *«Sadhguru. Yogi, mystic and visioner»* и *«Conversation
 with Mystic»* вырезаются.
    **Причины**: они не несут особой пользы и отнмают время.
