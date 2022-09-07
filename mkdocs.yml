@@ -3,53 +3,55 @@ site_url: https://alexfreik.github.io/isha-montage/
 repo_url: https://github.com/AlexFreik/isha-montage
 
 theme:
-  name: material
-  language: ru                                    # The build's language
+    name: material
+    language: ru # The build's language
 
-  features:
-    - navigation.tracking
-    - navigation.tabs
+    features:
+        - navigation.tracking
+        - navigation.tabs
 
-  palette:
+    palette:
+        - media: '(prefers-color-scheme: light)' # Palette toggle for light mode
+          scheme: default
+          primary: orange
+          toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
 
-  palette:
-    - media: "(prefers-color-scheme: light)"        # Palette toggle for light mode
-      scheme: default
-      primary: orange
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    - media: "(prefers-color-scheme: dark)"         # Palette toggle for dark mode
-      scheme: slate
-      primary: brown
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        - media: '(prefers-color-scheme: dark)' # Palette toggle for dark mode
+          scheme: slate
+          primary: brown
+          toggle:
+              icon: material/brightness-4
+              name: Switch to light mode
 
 extra:
-  alternate:
-    - name: Русский
-      link: /isha-montage/
-      lang: ru
+    alternate:
+        - name: Русский
+          link: /isha-montage/
+          lang: ru
 
 plugins:
-  - search:
-      lang: ru                                      # Set language for search
+    - search:
+          lang: ru # Set language for search
 
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - attr_list
-  - md_in_html
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - attr_list
+    - md_in_html
 
 nav:
-  - 'index.md'
-  - 'recomendations.md'
-  - 'advice.md'
-  - 'learning-materials.md'
-  - 'tech-support.md'
-  - 'youtube.md'
+    - 'index.md'
+    - 'Уроки':
+          - 'lessons/montage-apps.md'
+          - 'lessons/text-translation-methods.md'
+          - 'lessons/general-advice.md'
+          - 'lessons/translating-recomendations.md'
+          - 'lessons/tech-support.md'
+    - 'youtube.md'
+    - 'facebook.md'
+    - 'instagram.md'
