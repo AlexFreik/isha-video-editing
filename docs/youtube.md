@@ -61,9 +61,9 @@
     ![segoe script example](img/segoe_script.png){ width="120" }  
      Их можно скачать и установить из Google Fonts:
 
-        -   Merriweather: [fonts.google.com/specimen/Merriweather](https://fonts.google.com/specimen/Merriweather)
-        -   Open Sans: [fonts.google.com/specimen/Open+Sans](https://fonts.google.com/specimen/Open+Sans)
-        -   Segoe Script: наш [Google Drive](https://ishaeu.org/RUMontage)
+    -   Merriweather: [fonts.google.com/specimen/Merriweather](https://fonts.google.com/specimen/Merriweather)
+    -   Open Sans: [fonts.google.com/specimen/Open+Sans](https://fonts.google.com/specimen/Open+Sans)
+    -   Segoe Script: наш [Google Drive](https://ishaeu.org/RUMontage)
 
     P.S. Устанавливать шрифты не сложно, тут можно найти [инструкцию для macOS](lessons/tech-support.md#macos).
 
