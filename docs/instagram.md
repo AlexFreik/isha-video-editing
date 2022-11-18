@@ -34,7 +34,7 @@ P.S. Устанавливать шрифты не сложно, тут можн�
 1. Playlist with in-depth DaVinci tutorial for beginners (~40 mins).
  <iframe
      class="player"
-     type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbKxKjg5jFOVWOsRPZeraTs0
+     type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbKxKjg5jFOVWOsRPZeraTs0"
      frameborder="0">
  </iframe>
 
