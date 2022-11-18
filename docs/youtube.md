@@ -94,7 +94,21 @@
 
 ## Обучающие материалы
 
-1. Плейлист с подробным видео-примером монтажа видео в DaVinci и техниками замены текста.
+1. Playlist with in-depth DaVinci tutorial for beginners (~40 mins).
+ <iframe
+     class="player"
+     type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbKxKjg5jFOVWOsRPZeraTs0
+     frameborder="0">
+ </iframe>
+    
+1. Playlist with techniques to replace text in video (~20 mins).
+ <iframe
+     class="player"
+     type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbJtM7l3JlsRALu9Vo-9Y6HZ
+     frameborder="0">
+ </iframe>
+ 
+ 1. Плейлист с подробным видео-примером монтажа видео в DaVinci и техниками замены текста.
  <iframe
      class="player"
      type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLm5ihv4nPkIsgng5bVrOIfsoICxOk1I2Y"
