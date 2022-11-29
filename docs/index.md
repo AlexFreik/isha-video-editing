@@ -12,6 +12,16 @@
 
 ## Как пользоваться этим гайдом
 
+Мы сделали вступительное видео с обзором всего гайда (40 мин), советую начать с него.  Но если вы предпочитаете читать - можете просто читать этот гайд, и не смотреть видео, в видео нет информации, которой нет в гайде.   
+<iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/2O23Dlrwnec" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
 1. Начните с раздела ["Уроки"](lessons/montage-apps/). Это займет ~30 min.
 1. После этого переходите в раздел с гайдом для нужной платформы.
 1. Внимательно прочитайте рекомендации вначале раздела.
