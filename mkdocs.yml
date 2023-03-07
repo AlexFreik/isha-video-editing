@@ -1,4 +1,4 @@
-site_name: Isha Montage
+site_name: Isha Video Editing
 site_url: https://alexfreik.github.io/isha-video-editing/
 repo_url: https://github.com/AlexFreik/isha-video-editing
 
@@ -30,7 +30,7 @@ theme:
 extra:
     alternate:
         - name: Русский
-          link: /isha-montage/
+          link: /isha-video-editing/
           lang: ru
 
 plugins:
