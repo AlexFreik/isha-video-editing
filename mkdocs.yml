@@ -6,13 +6,11 @@ theme:
     name: material
     language: ru # The build's language
 
-    icon:
-        edit: material/pencil 
-        view: material/eye
-
     features:
         - navigation.tracking
         - navigation.tabs
+        - content.action.edit
+        - content.action.view
 
     palette:
         - media: '(prefers-color-scheme: light)' # Palette toggle for light mode
