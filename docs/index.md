@@ -36,7 +36,7 @@
 
 ---
 
-Ссылка на Google Drive с файлами для монтажа: [ishaeu.org/RUMontage](https://ishaeu.org/RUMontage)
+Ссылка на Google Drive с файлами для монтажа: [ishaeu.org/RUMontage](https://ishaeu.org/video-editing-materials-ru)
 
 <style>
 .player {
