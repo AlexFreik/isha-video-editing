@@ -1,5 +1,12 @@
 # Где монтировать
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 У нас в комманде в основном используются DaVinci Resolve и Adobe Premiere Pro,
 однако вы можете, использовать любой удобный для вас редактор.
 
