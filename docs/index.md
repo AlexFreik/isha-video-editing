@@ -1,5 +1,13 @@
 # Isha Montage Guide RU
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
+
 Добро пожаловать в гайд с процессом монтажа для Youtube, Facebook и Instagram! Читайте его в своем темпе.
 
 Монтировать совсем не сложно! В начале будет немножко трудно, но основы
