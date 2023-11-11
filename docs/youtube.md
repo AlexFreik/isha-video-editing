@@ -1,5 +1,12 @@
 # Монтаж для YouTube
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 Мы ведем русский канал на YouTube, и команда монтажа занимается
 русификацией английских видео.
 
