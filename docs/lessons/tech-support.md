@@ -1,5 +1,12 @@
 # Технические Моменты
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 ## Установка шрифтов macOS
 
 -   Откройте приложение "font Book".
