@@ -1,5 +1,12 @@
 # Основные методы перевода текста
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 -   _Наложить текст с непрозрачным бекграундом._  
      Подходит для ситуации, когда фон в месте, где размещен текст одноцветен,
     но обычно это не так, и лучше использовать другие методы.
