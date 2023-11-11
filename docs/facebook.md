@@ -2,6 +2,13 @@
 
 ---
 
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
+---
+
 ## Рекомендации
 
 none...
