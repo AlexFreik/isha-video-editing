@@ -1,5 +1,12 @@
 # Рекомендации по замене текста
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 ## Переходы
 
 -   Переходы между фрагментами с разным фоном через _Dip to Black_, иначе через _Dissolve_.
