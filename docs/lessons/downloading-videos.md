@@ -1,5 +1,12 @@
 # Как скачать видео
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 Чтобы скачать видео с YouTube можно воспользоваться сайтом https://www.y2mate.com/,
 скопировав и вставив ссылку на видео.
 Также, если видео уже открыто в браузере можно просто вставить "pp" после
