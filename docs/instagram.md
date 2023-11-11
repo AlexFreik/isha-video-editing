@@ -1,5 +1,12 @@
 # Монтаж для Instagram
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 Мы ведем русскую страничку на Instagram, и команда монтажа занимается
 русификацией английских видео.
 
