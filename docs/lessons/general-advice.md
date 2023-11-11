@@ -1,5 +1,12 @@
 # Общие советы
 
+---
+
+> This tutorial is outdated. You can check the latest version here: [https://video-editing.hashnode.dev/intro](https://video-editing.hashnode.dev/intro)
+
+---
+
+
 **Будьте внимательны — и не придется переделывать.**
 
 Проверяйте, что текст без грамм. ошибок, что все в порядки с пунктуацией;
